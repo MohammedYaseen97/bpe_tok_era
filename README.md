@@ -1,3 +1,14 @@
+---
+title: Multilingual Tokenizer Comparison
+emoji: 🔍
+colorFrom: blue
+colorTo: blue
+sdk: gradio
+sdk_version: "4.19.2"
+app_file: app.py
+pinned: false
+---
+
 # Multilingual Tokenizer Comparison
 
 A web application to compare tokenization between a custom multilingual BPE tokenizer and OpenAI's GPT-4 tokenizer.
