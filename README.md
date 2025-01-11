@@ -4,7 +4,7 @@ A web application to compare tokenization between a custom multilingual BPE toke
 
 ## Live Demo
 
-Try it out: [Huggingface Spaces Demo](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
+Try it out: [Huggingface Spaces Demo](https://huggingface.co/spaces/ace-1/bpe_tok)
 
 ## Features
 
@@ -52,8 +52,8 @@ The tokenizer implementation includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/MohammedYaseen97/bpe_tok_era.git
+cd bpe_tok_era
 
 # Install dependencies
 pip install -r requirements.txt
